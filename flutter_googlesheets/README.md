@@ -1,6 +1,6 @@
 # flutter_googlesheets
 
-A new Flutter project.
+A flutter project that can control the goggle_sheets file,we can add ,delete data into the spreadsheet.
 
 ## Getting Started
 
